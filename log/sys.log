@@ -1,0 +1,5 @@
+[25 09:48:21,561 INFO ] [main] utils.PropUtils - loading file: conf.txt
+[25 09:48:21,562 INFO ] [main] utils.PropUtils - open conf.txt file success!
+[25 09:48:25,362 ERROR] [main] utils.HttpClientUtils - [Ljava.lang.StackTraceElement;@2e1551b0
+[25 09:48:25,362 INFO ] [main] utils.HttpClientUtils - httpget request no: 11
+[25 09:48:26,363 INFO ] [main] utils.HttpClientUtils - Sleep 1000 ms because of blocking!

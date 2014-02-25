@@ -1,0 +1,16 @@
+﻿
+# customer configuration
+#设置宝贝浏览次数
+totalExecNum = 9999999
+#设置店铺url地址
+shopUrl = http://huazhipeixun.taobao.com/
+itemUrl = http://item.taobao.com/item.htm?spm=a230r.1.14.347.TlKtf7&id=18153953679
+keyword = %C9%CF%BA%A3%B9%AB%CE%F1%D4%B1
+
+referer = www.baidu.com;www.sina.com.cn;www.google.com;www.163.com;www.witsun.cn;www.ifeng.com.cn;www.zdnet.com;www.youku.com;www.tudou.com;www.126.com;
+
+# system configuration
+requestRetryCount = 100
+sleepInterval = 1000
+connectionTimeout = 3000
+socketTimeout = 3000
