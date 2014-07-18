@@ -10,3 +10,6 @@ reports
 .idea
 .gradletasknamecache
 *.output
+
+log/error.log
+log/sys.log
